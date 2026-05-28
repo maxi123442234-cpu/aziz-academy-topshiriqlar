@@ -1,0 +1,1 @@
+print('Assalomu alaykum\nPython darsiga xush kelibsiz!')
