@@ -1,0 +1,1 @@
+print('Assalomu alaykum\nBu mening birinchi Python dasturim')
